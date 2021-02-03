@@ -1,0 +1,74 @@
+body{
+    background-color:darkslategray;
+    margin-left: 30px;
+    margin-right: 40px;
+}
+
+hr{
+    margin-top: 30px;
+    border: 1px dashed cadetblue;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+h1{
+    color:crimson;
+    line-height: 0.7in;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 600;
+    font-size: 50px;
+}
+
+h3{
+    color: crimson;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 550;
+    font-size: 25px;
+}
+
+p{
+    color:lightsteelblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 1.4;
+}
+
+.peter{
+    color:tomato;
+    font-family: 'American Typewriter', serif;
+    font-size: 16px;
+    font-variant: uppercase;
+}
+.dana{
+    color:yellowgreen;
+    font-family: 'American Typewriter', serif;
+    font-size: 16px;
+    font-variant: uppercase;
+}
+.mayor{
+    color:gold;
+    font-family: 'American Typewriter', serif;
+    font-size: 16px;
+    font-variant: uppercase;
+}
+.dr-ray{
+    color:turquoise;
+    font-family: 'American Typewriter', serif;
+    font-size: 16px;
+    font-variant: uppercase;
+}
+.dr-es{
+    color:rgb(237, 115, 241);
+    font-family: 'American Typewriter', serif;
+    font-size: 16px;
+    font-variant: uppercase;
+}
+.winston{
+    color:rgb(54, 113, 240);
+    font-family: 'American Typewriter', serif;
+    font-size: 16px;
+    font-variant: uppercase;
+}
