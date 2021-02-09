@@ -1,0 +1,54 @@
+body{
+    background-color:whitesmoke;
+    margin: 0;
+    padding-top: 30vw;
+}
+header{
+    color: white;
+    font-size: 100px;
+    font-size: 8.3vw; /*% of viewpoint*/
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(255,26,57,255);
+    
+    position: fixed;
+    z-index:1;
+    top: 0;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+h1{
+    margin: 0;
+}
+.h2{
+    color: rgba(255,26,57,255);
+    background-size: 10vw;
+    font-size: 20px;
+    line-height: 25px;
+    padding: 8px 40px 8px 50px;
+    margin-top: 0px;
+    position: fixed;
+    background-color: white;
+}
+audio{
+    padding-left: 35px;
+}
+main{
+    padding: 0px 20px 25px 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    color: rgba(255,26,57,255);
+}
+p{
+    font-size: 12;
+    line-height: 7px;
+}
+.verse{
+    padding: 10px 0px 10px 70px;
+}
+img{
+    width: 100%;
+    padding-top: 40px;
+}
