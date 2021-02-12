@@ -1,0 +1,79 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    color:whitesmoke;
+    background-color: #245fa1;
+    margin: 5%;
+}
+
+header{
+    margin: 2em 0;
+    color:rgb(255, 246, 199);
+    line-height: 0.8;
+    text-indent: -1rem;
+}
+
+section{
+    margin: 4em 0;
+}
+
+h2{
+    text-indent: -1rem;
+    color:rgb(255, 246, 199);
+}
+
+.h3{
+    font-family: monospace;
+    font-weight: lighter;
+    margin-bottom: -8px;
+    color:rgb(253, 126, 104)
+}
+
+.fw-normal{
+    font-weight: normal;
+}
+.fw-bold{
+    font-weight: bold;
+}
+
+.fs-normal{
+    font-style: normal;
+}
+.fs-italic{
+    font-style: italic;
+}
+
+.ls-normal{
+    letter-spacing: normal;
+}
+.ls-03{
+    letter-spacing: 0.3em;
+}
+.ls-006{
+    letter-spacing: -0.06em;
+}
+
+.td-none{
+    text-decoration: none;
+}
+.td-ul{
+    text-decoration: underline;
+}
+.td-lt{
+    text-decoration: line-through;
+}
+.td-ol{
+    text-decoration: overline;
+}
+
+.tt-none{
+    text-transform: none;
+}
+.tt-uc{
+    text-transform: uppercase;
+}
+.tt-lc{
+    text-transform: lowercase;
+}
+.tt-cap{
+    text-transform: capitalize;
+}
