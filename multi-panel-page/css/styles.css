@@ -1,0 +1,89 @@
+html{
+    font-family: 'Archivo Narrow', sans-serif;
+    font-size: 18px;
+}
+.italics{
+    font-style: italic;
+}
+h1{
+    color: white;
+    -webkit-text-stroke: 1px rgb(163, 62, 62);
+    font-size: 80px;
+    font-weight: bold;
+    text-align: center;
+    margin: 152px 0 0 0;
+}
+h2{
+    color: rgb(163, 62, 62);
+    font-size: 40px;
+    text-align: center;
+    padding-top: 40px;
+    margin-top: 0;
+}
+h3{
+    color: white;
+    -webkit-text-stroke: 1px rgb(163, 62, 62);
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: 0;
+}
+h4{
+    margin: 3px 0 0 0;
+    font-size: 20px;
+}
+.panel{
+    padding-left: calc(50% - 480px);
+    padding-right: calc(50% - 480px);
+    padding-top: 0px;
+    padding-bottom: 32px;
+}
+.intro{
+    text-align: center;
+    background-image: url(https://image.jimcdn.com/app/cms/image/transf/dimension=1190x10000:format=jpg/path/sa6549607c78f5c11/image/i6ed7914185b65d39/version/1604594252/venice-best-destinations-for-halloween-in-europe-copyright-istvan-csak.jpg);
+    padding: 10px 0 145px 0;
+    margin: auto;
+}
+.feature.panel{
+    background-color: seashell;
+}
+.gallery.panel{
+    background-color: white;
+}
+#float-image{
+    width: 400px; 
+    height: 300px;
+    object-fit: cover;
+    float: right;
+    padding: 0 0 30px 50px;
+}
+.image-grid li{
+    width: 450px;
+    height: 150px;
+    display: block;
+    float: left;
+    margin: 0 30px 25px 0;
+}
+.image-grid img{
+    width: 200px;
+    height: 150px;
+    float: left;
+    margin-right: 15px;
+}
+.outro.panel{
+    background-color: seashell;
+    padding-bottom: 90px;
+}
+.outro.panel p{
+    font-size: 25px;
+    text-align: center;
+    margin: auto;
+    width: 700px;
+}
+footer{
+    background-color: white;
+}
+footer p{
+    padding-top: 22px;
+    padding-left: 84px;
+}
+
