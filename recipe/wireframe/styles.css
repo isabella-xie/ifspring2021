@@ -1,0 +1,18 @@
+html{
+    margin: auto;
+    max-width: 960px;
+}
+
+.recipe-grid{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+.recipe-grid ul{
+    width: 90%;
+    margin: 15px;
+}
+.recipe-grid li{
+    width: 90%;
+    margin: 15px;
+}
