@@ -1,0 +1,39 @@
+html{
+    margin: auto;
+    max-width: 960px;
+    min-width: 320px;
+}
+body{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: 'Kiwi Maru', serif;
+}
+h1{
+    margin-top: 50px;
+}
+div{
+    display: inline-block;
+    width: 50%;
+}
+.brief{
+    line-height: 0.85rem;
+}
+.recipe-grid{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.ingredients{
+    list-style-type: none;
+    padding-left: 0;
+}
+.prep{
+    list-style-type: none;
+}
+img{
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
+
